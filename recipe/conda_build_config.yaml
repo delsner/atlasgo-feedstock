@@ -1,5 +1,0 @@
-c_stdlib_version:
-  - 12.3   # [osx]
-  - 2.17   # [linux]
-MACOSX_SDK_VERSION:
-  - 12.3   # [osx]
