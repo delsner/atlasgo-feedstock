@@ -3,7 +3,7 @@ About atlasgo-feedstock
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/atlasgo-feedstock/blob/main/LICENSE.txt)
 
-Home: https://atlasgo.io
+Home: https://atlasgo.io/
 
 Package license: Apache-2.0
 
@@ -188,4 +188,5 @@ Feedstock Maintainers
 =====================
 
 * [@borchero](https://github.com/borchero/)
+* [@delsner](https://github.com/delsner/)
 
