@@ -19,7 +19,7 @@ requirements:
   build:
     - {{ compiler('c') }}      # [unix]
     - {{ stdlib('c') }}        # [unix]
-    - {{ compiler('go-cgo') }} >=1.21
+    - {{ compiler('go-cgo') }} >=1.26.1
     - go-licenses
 
 test:
